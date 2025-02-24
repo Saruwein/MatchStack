@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="com_google_android_gms_fonts_certs">
+        <item>@array/com_google_android_gms_fonts_certs_dev</item>
+    </array>
+    <array name="com_google_android_gms_fonts_certs_dev">
+        <item>
+            MIIEqDCCA5CgAwIBAgIJAMLgh0ZkSjCNMA0GCSqGSIb3DQEBBAUAMHQxCzAJBgNV
+            BAYTAkNOMQ8wDQYDVQQIDAZCZWlqaW5nMRAwDgYDVQQHDAdCZWlqaW5nMRAwDgYD
+            VQQKDAdaYW9zaGVuMQ8wDQYDVQQLDAZCZWlqaW5nMRAwDgYDVQQDDAdCZWlqaW5n
+            MRwwGgYJKoZIhvcNAQkBFg16YW9zaGVuQGdtYWlsLmNvbTAeFw0xODA2MDExMjQ0
+            MzdaFw0yODA2MDExMjQ0MzdaMHQxCzAJBgNVBAYTAkNOMQ8wDQYDVQQIDAZCZWlq
+            aW5nMRAwDgYDVQQHDAdCZWlqaW5nMRAwDgYDVQQKDAdaYW9zaGVuMQ8wDQYDVQQL
+            DAZCZWlqaW5nMRAwDgYDVQQDDAdCZWlqaW5nMRwwGgYJKoZIhvcNAQkBFg16YW9z
+            aGVuQGdtYWlsLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAN/O
+            /19v9Vl1+u67+44/9b1y/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9
+            /9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9
+            /9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9
+            /9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9
+            /9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9
+            /9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9
+            /9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9
+            /9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9
+            /9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9
+            /9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9
+            /9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9
+            /9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9
+            /9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9
+            /9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9
+            /9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9
+            /9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9/9v9
+            /9v9/9v9/9>
+        </item>
+    </array> -->
+</resources>
